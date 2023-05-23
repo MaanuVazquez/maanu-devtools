@@ -1,0 +1,15 @@
+{
+  "name": "prettier-config",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "devDependencies": {
+    "@types/prettier": "^2.7.2"
+  }
+}
