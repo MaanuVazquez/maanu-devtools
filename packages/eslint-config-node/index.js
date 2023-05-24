@@ -1,3 +1,5 @@
+require("@rushstack/eslint-patch/modern-module-resolution");
+
 /** @type {import('@types/eslint').Linter.BaseConfig} */
 module.exports = {
   parser: "@typescript-eslint/parser",

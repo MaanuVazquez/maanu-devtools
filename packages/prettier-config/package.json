@@ -1,7 +1,6 @@
 {
-  "name": "prettier-config",
-  "version": "0.0.0",
-  "private": true,
+  "name": "@maanu-devtools/prettier-config",
+  "version": "0.1.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

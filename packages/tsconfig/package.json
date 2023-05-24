@@ -1,7 +1,6 @@
 {
-  "name": "tsconfig",
-  "version": "0.0.0",
-  "private": true,
+  "name": "@maanu-devtools/tsconfig",
+  "version": "0.1.0",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

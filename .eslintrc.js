@@ -1,5 +1,5 @@
 module.exports = {
   root: true,
-  extends: ["remix"],
+  extends: ["@maanu-devtools/eslint-config-remix"],
   settings: {},
 };

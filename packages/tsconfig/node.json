@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "Base",
+  "display": "Node",
   "extends": "@tsconfig/node18/tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist",
