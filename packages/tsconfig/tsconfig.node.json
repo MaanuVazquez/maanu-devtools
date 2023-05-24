@@ -10,18 +10,11 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",
-    "outDir": "./dist",
-    "rootDir": "./src",
     "removeComments": true,
     "noImplicitAny": true,
     "noImplicitThis": true,
     "alwaysStrict": true,
     "resolveJsonModule": true,
-    "typeRoots": ["./node_modules/@types", "./@types", "types.ts"],
-    "baseUrl": ".",
-    "paths": {
-      "~/*": ["src/*", "*"]
-    },
     "allowSyntheticDefaultImports": true
   }
 }

@@ -1,5 +1,11 @@
 # @maanu-devtools/tsconfig
 
+## 0.1.2
+
+### Patch Changes
+
+- fix both remix and node config files
+
 ## 0.1.1
 
 ### Patch Changes
