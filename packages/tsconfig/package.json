@@ -1,11 +1,8 @@
 {
   "name": "@maanu-devtools/tsconfig",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
-    "@tsconfig/node18": "^2.0.1"
   }
 }

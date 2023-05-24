@@ -4,7 +4,9 @@
     "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "release": "changeset publish",
+    "set-changelog": "changeset version",
+    "changeset": "changeset"
   },
   "devDependencies": {
     "@maanu-devtools/eslint-config-node": "*",
