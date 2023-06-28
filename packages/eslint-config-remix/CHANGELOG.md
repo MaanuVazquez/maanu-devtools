@@ -1,5 +1,11 @@
 # @maanu-devtools/eslint-config-remix
 
+## 1.0.1
+
+### Patch Changes
+
+- The config now sets the import resolver correctly
+
 ## 1.0.0
 
 ### Major Changes
