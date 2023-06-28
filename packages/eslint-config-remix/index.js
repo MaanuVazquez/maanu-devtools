@@ -7,16 +7,14 @@ module.exports = {
     "@remix-run/eslint-config",
     "@remix-run/eslint-config/node",
   ],
-  overrides: [
-    {
-      settings: {
-        "import/resolver": {
-          node: {
-            extensions: [".ts", ".tsx"],
-            moduleDirectory: ["node_modules", "src/"],
-          },
+  settings: {
+    "import/resolver": {
+      "eslint-import-resolver-custom-alias": {
+        alias: {
+          "~": "./app",
         },
+        extensions: [".ts", ".tsx"],
       },
     },
-  ],
+  },
 };
