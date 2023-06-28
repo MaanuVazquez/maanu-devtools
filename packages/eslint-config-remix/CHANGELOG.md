@@ -1,5 +1,11 @@
 # @maanu-devtools/eslint-config-remix
 
+## 1.1.0
+
+### Minor Changes
+
+- Add eslint-import-resolver-custom-alias dependency and set rule
+
 ## 1.0.1
 
 ### Patch Changes
